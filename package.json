@@ -1,0 +1,24 @@
+{
+  "name": "h.i-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVade/Hobby-Inventory-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TheVade/Hobby-Inventory-Website/issues"
+  },
+  "homepage": "https://github.com/TheVade/Hobby-Inventory-Website#readme",
+  "devDependencies": {
+    "wrangler": "^4.160.1"
+  }
+}
